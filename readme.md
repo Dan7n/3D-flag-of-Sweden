@@ -1,16 +1,42 @@
-# Three.js Journey
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+# 3D Swedish Flag
 
-``` bash
-# Install dependencies (only the first time)
-npm install
 
-# Run the local server at localhost:8080
-npm run dev
 
-# Build for production in the dist/ directory
-npm run build
+Simple project to document my journey to learn ThreeJS by creating this 3D animated flag using custom shaders written in OpenGL Shader Languar (GLSL).
+
+## Demo
+
+Final project:
+
+![Gif of the final project](https://media.giphy.com/media/Jq2H3pPuJ7dTgt1zpx/giphy.gif)
+
+
+
+Live demo here:
+https://silly-cray-9c4695.netlify.app/
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Dan7n/3D-flag-of-Sweden.git
 ```
+
+Go to the project directory
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+  
